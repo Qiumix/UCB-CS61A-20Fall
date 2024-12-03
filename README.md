@@ -1,2 +1,2 @@
-# UCB-CS61A-20Fall
-UCB CS61A fall 2020 Solutions for All Discussions, Labs, Projects, and Homeworks
+start at 24.12.03
+This repository contains my solutions for all labs, discussions (except for scheme, not really interest in it), projects and homeworks for the course.
